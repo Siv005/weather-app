@@ -1,0 +1,2 @@
+The weather application will provide users with real-time weather information, forecasts, and other weather-related data, which can help them make better decisions about their day-to-day activities.
+This “Green Sahara” experienced frequent rainy weather. There are six main components, or parts, of weather. They are temperature, atmospheric pressure, wind, humidity, precipitation, and cloudiness. Together, these components describe the weather at any given time.
